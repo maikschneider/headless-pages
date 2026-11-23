@@ -10,6 +10,9 @@ Composes editor-built TYPO3 pages into a clean, framework-agnostic JSON contract
 
 </div>
 
+> [!WARNING]
+> **Archived.** This extension is no longer developed. Its successor is `maikschneider/tca-api-headless`, which builds headless page delivery on top of [TCA API](https://github.com/maikschneider/tca-api) (in development, not public yet).
+
 > **State:** Alpha (0.1.0) — under active development. The contract may change until 1.0.
 
 ## What this is
